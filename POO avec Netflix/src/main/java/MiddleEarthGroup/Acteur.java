@@ -11,7 +11,7 @@ public class Acteur {
         this.films = new ArrayList<Film>();
     }
 
-    public ArrayList<Film>getFilms() {
+    public ArrayList<Film> getFilms() {
         return films;
     }
  

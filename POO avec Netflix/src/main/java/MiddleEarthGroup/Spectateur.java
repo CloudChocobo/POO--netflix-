@@ -12,7 +12,7 @@ public class Spectateur {
 
     }
 
-    public ArrayList<Film>getFilmsVisonnes() {
+    public ArrayList<Film> getFilmsVisonnes() {
         return filmsVisionnes;
     }
 }

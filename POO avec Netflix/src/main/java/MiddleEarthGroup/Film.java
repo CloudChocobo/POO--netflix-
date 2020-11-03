@@ -20,10 +20,9 @@ public class Film {
 
     }
 
-   public ArrayList<Acteur>getActeurs() {
+   public ArrayList<Acteur> getActeurs() {
        return Acteurs;
    }
 
-    
     
 }
